@@ -91,8 +91,8 @@ export default function Contact() {
           >
             <motion.div variants={fadeUp}>
               <h3 className="text-sm tracking-[0.3em] text-accent mb-4 uppercase">Email</h3>
-              <a href="mailto:hello@setthedate.ro" className="font-serif text-2xl md:text-3xl text-secondary hover:text-accent transition-colors">
-                hello@setthedate.ro
+              <a href="mailto:contact@setthedate.ro" className="font-serif text-2xl md:text-3xl text-secondary hover:text-accent transition-colors">
+                contact@setthedate.ro
               </a>
             </motion.div>
             <motion.div variants={fadeUp}>
